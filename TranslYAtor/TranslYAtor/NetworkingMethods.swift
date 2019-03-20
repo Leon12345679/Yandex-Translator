@@ -8,8 +8,6 @@
 
 import Foundation
 
-// Get API Key from seperate file
-
 class NetworkingMethods {
     
     // JSON data response struct
