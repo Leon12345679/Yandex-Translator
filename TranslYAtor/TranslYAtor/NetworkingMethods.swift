@@ -58,7 +58,7 @@ class NetworkingMethods {
             case 402: return "ERROR: API ключ заблокирован"
             case 404: return "ERROR: Слишком много запросов за день"
             case 413: return"ERROR: Текст слишком длинный"
-            case 422, 501: return "ERROR Не смогли перевести"
+            case 422, 501: return "ERROR: Не смогли перевести"
             default:
                 return "ERROR: Не смогли перевести"
             }
